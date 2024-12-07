@@ -1,0 +1,6 @@
+.env
+.aider*
+.pl
+*.sublime-project
+*.sublime-workspace
+/.DS_Store
